@@ -22,8 +22,10 @@ The File Sorter App is designed to help you organize your files by moving them t
 - Automatically sorts files into folders based on their file extensions.
 - Supports various file extensions for categorization.
 
-## Screenshots
+## Demo
 ![File Sorter App](Demo_File_sorter_App.mp4)
+![File Sorter App](Demo_File_sorter_App.mp4)
+
 ## Setup
 To run the File Sorter App, you need to have Python 3.7 or above installed on your system. Then download Main.py file and run program in Python compiler.
 1. Clone this repository or download the source code.
