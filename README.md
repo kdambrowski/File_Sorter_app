@@ -6,7 +6,7 @@
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
+* [Demo](#demo)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -23,10 +23,13 @@ The File Sorter App is designed to help you organize your files by moving them t
 - Supports various file extensions for categorization.
 
 ## Demo
+This is screen before running sorter. Folder "folder testowy" contains pictures files 
 ![Before_run_application](images/Before_run_app.png) 
  
+This is screen during selected sorted file
 ![During_run_application](images/During_run_app.png)
- 
+  
+This is screen when application done its job and stransfer files to pictures file
 ![After_run_application](images/After_run_app.png) 
  
 
