@@ -35,6 +35,7 @@ This is screen when application done its job and stransfer files to pictures fil
 
 ## Video
 Click to this screen to see video with demo how does this app work. 
+ 
 [![Demo File Sorter App](http://img.youtube.com/vi/ffNtDCFeqZA/0.jpg)](http://www.youtube.com/watch?v=ffNtDCFeqZA)
 
  
