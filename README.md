@@ -31,6 +31,9 @@ This is screen during selected sorted file
   
 This is screen when application done its job and stransfer files to pictures file
 ![After_run_application](images/After_run_app.png) 
+
+[![Demo File Sorter App](http://img.youtube.com/vi/ffNtDCFeqZA/0.jpg)](http://www.youtube.com/watch?v=ffNtDCFeqZA)
+
  
 
 ## Setup
